@@ -1,0 +1,55 @@
+
+            <div class="menu-group">
+                <div class="row">
+                    <nav class="navbar navbar-expand-lg  navbar-dark col-lg ">
+                        <!-- Toggler/collapsibe Button -->
+                        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#collapsibleNavbar">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id=" collapsibleNavbar">
+                            <ul class="navbar-nav ">
+                                <li class=" nav-item products">
+                                    <a class="nav-link" href="#">Products</a>
+                                </li>
+                                <li class="nav-item online-catalogues">
+                                    <a class="nav-link " href="#">Online Catalogues</a>
+                                </li>
+                                <li class="nav-item find-our-stores">
+                                    <a class="nav-link " href="#">Find our Stores</a>
+                                </li>
+                                <li class="nav-item new-products">
+                                    <a class="nav-link " href="#">New Products</a>
+                                </li>
+                                <li class="nav-item about-us">
+                                    <a class="nav-link " href="#">About Us</a>
+                                </li>
+                                <li class="nav-item contact-us">
+                                    <a class="nav-link " href="#">Contact Us</a>
+                                </li>
+
+                                <li class="d-sm-none d-md-block">
+                                    <form class="form-inline " action="#">
+                                        <div class="input-group">
+                                            <div class="input-group-prepend">
+                                                <span class="input-group-text">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+                                                        viewBox="0 0 14 14">
+                                                        <g fill="none" fill-rule="evenodd" stroke="#E6E6E6"
+                                                            transform="translate(1 1)">
+                                                            <circle cx="4.5" cy="4.5" r="4.5" />
+                                                            <path d="M12 12L7.6 7.6" />
+                                                        </g>
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                            <input type="text" class="form-control"
+                                                placeholder="Search for product, brand, ..ect" />
+                                        </div>
+                                    </form>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
